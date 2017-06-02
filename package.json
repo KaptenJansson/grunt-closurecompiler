@@ -1,7 +1,7 @@
 {
     "name": "grunt-closurecompiler-new-grunt",
     "description": "The ClosureCompiler.js Grunt Task",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "Daniel Wirtz",
         "email": "dcode@dcode.io"
